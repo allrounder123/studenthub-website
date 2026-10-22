@@ -56,6 +56,6 @@ The contact form is a front-end demonstration only. Because the project intentio
 
 ## Author
 
-Created by: **[Your Name]**  
+Created by: Shanza Bukhari - BSE-24S-067
 Course: **Web Engineering**  
 Assignment: **Assignment 1 — HTML and CSS Website**
